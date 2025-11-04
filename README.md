@@ -85,9 +85,9 @@ Make sure the input and output paths are consistent across scripts by editing th
 
 | Step | Script                  | Description                                        | Paper Section | Output File                |
 |------|-------------------------|----------------------------------------------------|----------------|----------------------------|
-| 1️⃣   | `async_generate.py`       | Generate prompts and verifier functions            | §3             | `generated_prompts.jsonl`  |
-| 2️⃣   | `async_gen_unit_test.py`  | Generate unit tests to verify data integrity       | §4             | `unit_tests.jsonl`         |
-| 3️⃣   | `async_data_cleaning.py`  | Run tests + verifiers to filter and repair data    | §5             | `clean_data.jsonl`         |
+| 1️⃣   | `async_generate.py`       | Generate prompts and verifier functions            | §4.1            | `generated_prompts.jsonl`  |
+| 2️⃣   | `async_gen_unit_test.py`  | Generate unit tests to verify data integrity       | §4.2             | `unit_tests.jsonl`         |
+| 3️⃣   | `async_data_cleaning.py`  | Run tests + verifiers to filter and repair data    | §4.2             | `clean_data.jsonl`         |
 
 ## Citation
 ```
