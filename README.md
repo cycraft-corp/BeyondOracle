@@ -1,6 +1,4 @@
-# [NeurIPS 2025] Beyond Oracle
-_Source Code for_ **“Beyond Oracle: Verifier-Supervision for Instruction Hierarchy in Reasoning and Instruction-Tuned LLMs”**
-
+# [NeurIPS 2025] Beyond Oracle: Verifier-Supervision for Instruction Hierarchy in Reasoning and Instruction-Tuned LLMs
 This repository implements the **end-to-end pipeline** proposed in our paper, covering:
 
 1. **Prompt & Verifier Generation** — create scaffolds, directives, conflicting directives, and their verifier functions.  
